@@ -8,6 +8,6 @@ namespace GameCore
 {
     public class TestClass {
 		// Changed from example!
-        public int TestNumber = 256;
+        public int TestNumber = 512;
     }
 }
