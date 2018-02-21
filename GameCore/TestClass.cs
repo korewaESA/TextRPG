@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace GameCore
 {
     public class TestClass {
-        public int TestNumber = 32;
+        public int TestNumber = 64;
     }
 }
